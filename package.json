@@ -1,0 +1,18 @@
+{
+    "name": "com.google.firebase.remote-config",
+    "displayName": "Firebase Remote Config",
+    "description": "Customize your game on the fly.",
+    "version": "10.6.0",
+    "unity": "2021.3",
+    "category": "google-APIs-for-unity",
+    "keywords": [
+        "Google",
+        "Firebase",
+        "Remote",
+        "Config",
+        "Remote Config"
+    ],
+    "dependencies": {
+        "com.google.firebase.core": "10.6.0"
+    }
+}
